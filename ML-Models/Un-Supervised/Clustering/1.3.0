@@ -1,0 +1,5 @@
+Requirement already satisfied: scikit-learn in c:\users\mk perumalla\anaconda3\lib\site-packages (1.3.0)
+Requirement already satisfied: scipy>=1.5.0 in c:\users\mk perumalla\anaconda3\lib\site-packages (from scikit-learn) (1.10.0)
+Requirement already satisfied: joblib>=1.1.1 in c:\users\mk perumalla\anaconda3\lib\site-packages (from scikit-learn) (1.5.3)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\mk perumalla\anaconda3\lib\site-packages (from scikit-learn) (1.23.5)
+Requirement already satisfied: threadpoolctl>=2.0.0 in c:\users\mk perumalla\anaconda3\lib\site-packages (from scikit-learn) (3.6.0)
